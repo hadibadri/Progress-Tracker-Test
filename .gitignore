@@ -1,0 +1,4 @@
+# Local tooling downloads
+*.whl
+__pycache__/
+.DS_Store
