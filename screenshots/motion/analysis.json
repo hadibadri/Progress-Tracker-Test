@@ -1,0 +1,366 @@
+{
+ "line-draw": {
+  "frames": 197,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 250,
+   "max": 150.1,
+   "p95": 16.8,
+   "over16": 1,
+   "over33": 1,
+   "overAfterOpen": 0,
+   "maxAfterOpen": 16.8,
+   "loaf": [
+    "156ms(script 0, render 10)"
+   ]
+  }
+ },
+ "ob-figure": {
+  "frames": 166,
+  "flashes": [],
+  "snaps": [
+   53
+  ],
+  "end_diff": 0.03,
+  "perf": {
+   "frames": 216,
+   "max": 33.4,
+   "p95": 16.8,
+   "over16": 2,
+   "over33": 0,
+   "overAfterOpen": 0,
+   "maxAfterOpen": 16.8,
+   "loaf": []
+  }
+ },
+ "ruler": {
+  "frames": 173,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.06,
+  "perf": {
+   "frames": 219,
+   "max": 33.4,
+   "p95": 16.8,
+   "over16": 7,
+   "over33": 2,
+   "overAfterOpen": 6,
+   "maxAfterOpen": 33.4,
+   "loaf": []
+  }
+ },
+ "digits": {
+  "frames": 125,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 149,
+   "max": 33.4,
+   "p95": 16.8,
+   "over16": 6,
+   "over33": 0,
+   "overAfterOpen": 6,
+   "maxAfterOpen": 33.4,
+   "loaf": []
+  }
+ },
+ "dose-hold": {
+  "frames": 244,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 330,
+   "max": 66.6,
+   "p95": 16.8,
+   "over16": 7,
+   "over33": 4,
+   "overAfterOpen": 6,
+   "maxAfterOpen": 66.6,
+   "loaf": [
+    "70ms(script 0, render 1)",
+    "65ms(script 0, render 25)"
+   ]
+  }
+ },
+ "dose-release": {
+  "frames": 121,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.13,
+  "perf": {
+   "frames": 151,
+   "max": 66.7,
+   "p95": 16.8,
+   "over16": 7,
+   "over33": 5,
+   "overAfterOpen": 6,
+   "maxAfterOpen": 49.9,
+   "loaf": [
+    "80ms(script 0, render 1)"
+   ]
+  }
+ },
+ "loop-dot": {
+  "frames": 111,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": {
+   "frames": 140,
+   "max": 33.3,
+   "p95": 16.8,
+   "over16": 1,
+   "over33": 0,
+   "overAfterOpen": 0,
+   "maxAfterOpen": 16.8,
+   "loaf": []
+  }
+ },
+ "milestone": {
+  "frames": 161,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 217,
+   "max": 83.3,
+   "p95": 16.8,
+   "over16": 10,
+   "over33": 5,
+   "overAfterOpen": 8,
+   "maxAfterOpen": 66.7,
+   "loaf": [
+    "116ms(script 0, render 14)"
+   ]
+  }
+ },
+ "fog-lift": {
+  "frames": 194,
+  "flashes": [],
+  "snaps": [
+   111
+  ],
+  "end_diff": 0.04,
+  "perf": {
+   "frames": 274,
+   "max": 33.4,
+   "p95": 16.8,
+   "over16": 1,
+   "over33": 1,
+   "overAfterOpen": 0,
+   "maxAfterOpen": 16.8,
+   "loaf": [
+    "133ms(script 0, render 87)"
+   ]
+  }
+ },
+ "tab-morph": {
+  "frames": 53,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": {
+   "frames": 118,
+   "max": 233.3,
+   "p95": 33.3,
+   "over16": 6,
+   "over33": 3,
+   "overAfterOpen": 4,
+   "maxAfterOpen": 233.3,
+   "loaf": [
+    "72ms(script 0, render 2)",
+    "239ms(script 0, render 4)"
+   ]
+  }
+ },
+ "tab-morph-care": {
+  "frames": 40,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": {
+   "frames": 110,
+   "max": 133.3,
+   "p95": 16.8,
+   "over16": 3,
+   "over33": 3,
+   "overAfterOpen": 2,
+   "maxAfterOpen": 133.3,
+   "loaf": [
+    "69ms(script 0, render 2)",
+    "137ms(script 0, render 2)"
+   ]
+  }
+ },
+ "sheet": {
+  "frames": 42,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": {
+   "frames": 112,
+   "max": 66.6,
+   "p95": 16.8,
+   "over16": 2,
+   "over33": 1,
+   "overAfterOpen": 1,
+   "maxAfterOpen": 66.6,
+   "loaf": [
+    "50ms(script 0, render 1)",
+    "87ms(script 0, render 4)"
+   ]
+  }
+ },
+ "sheet-drag": {
+  "frames": 48,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": {
+   "frames": 117,
+   "max": 50.1,
+   "p95": 16.8,
+   "over16": 2,
+   "over33": 2,
+   "overAfterOpen": 1,
+   "maxAfterOpen": 50,
+   "loaf": [
+    "74ms(script 0, render 2)",
+    "55ms(script 0, render 2)"
+   ]
+  }
+ },
+ "chip-press": {
+  "frames": 136,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 167,
+   "max": 66.7,
+   "p95": 16.8,
+   "over16": 6,
+   "over33": 5,
+   "overAfterOpen": 4,
+   "maxAfterOpen": 66.7,
+   "loaf": [
+    "85ms(script 0, render 5)",
+    "85ms(script 0, render 7)"
+   ]
+  }
+ },
+ "severity": {
+  "frames": 118,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.03,
+  "perf": {
+   "frames": 169,
+   "max": 33.4,
+   "p95": 16.7,
+   "over16": 3,
+   "over33": 0,
+   "overAfterOpen": 3,
+   "maxAfterOpen": 33.4,
+   "loaf": []
+  }
+ },
+ "stage-in": {
+  "frames": 74,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.33,
+  "perf": {
+   "frames": 98,
+   "max": 66.6,
+   "p95": 16.8,
+   "over16": 4,
+   "over33": 2,
+   "overAfterOpen": 2,
+   "maxAfterOpen": 33.3,
+   "loaf": [
+    "79ms(script 0, render 11)"
+   ]
+  }
+ },
+ "mood": {
+  "frames": 161,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 214,
+   "max": 66.8,
+   "p95": 16.8,
+   "over16": 3,
+   "over33": 1,
+   "overAfterOpen": 2,
+   "maxAfterOpen": 33.4,
+   "loaf": [
+    "79ms(script 0, render 2)",
+    "52ms(script 0, render 3)"
+   ]
+  }
+ },
+ "timeline": {
+  "frames": 96,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.03,
+  "perf": {
+   "frames": 149,
+   "max": 66.6,
+   "p95": 33.3,
+   "over16": 10,
+   "over33": 5,
+   "overAfterOpen": 9,
+   "maxAfterOpen": 50,
+   "loaf": [
+    "78ms(script 0, render 2)"
+   ]
+  }
+ },
+ "push": {
+  "frames": 77,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": {
+   "frames": 197,
+   "max": 83.2,
+   "p95": 16.7,
+   "over16": 3,
+   "over33": 3,
+   "overAfterOpen": 2,
+   "maxAfterOpen": 83.2,
+   "loaf": [
+    "53ms(script 0, render 1)",
+    "89ms(script 0, render 8)",
+    "65ms(script 0, render 1)"
+   ]
+  }
+ },
+ "toast": {
+  "frames": 83,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.05,
+  "perf": {
+   "frames": 102,
+   "max": 116.7,
+   "p95": 16.8,
+   "over16": 3,
+   "over33": 2,
+   "overAfterOpen": 2,
+   "maxAfterOpen": 116.7,
+   "loaf": [
+    "53ms(script 0, render 2)",
+    "91ms(script 0, render 4)"
+   ]
+  }
+ }
+}

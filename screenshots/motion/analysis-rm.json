@@ -1,0 +1,58 @@
+{
+ "line-draw": {
+  "frames": 2,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ },
+ "dose-hold": {
+  "frames": 76,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ },
+ "tab-morph": {
+  "frames": 15,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ },
+ "stage-in": {
+  "frames": 72,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.28,
+  "perf": null
+ },
+ "fog-lift": {
+  "frames": 28,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ },
+ "milestone": {
+  "frames": 85,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ },
+ "sheet": {
+  "frames": 29,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ },
+ "ruler": {
+  "frames": 31,
+  "flashes": [],
+  "snaps": [],
+  "end_diff": 0.0,
+  "perf": null
+ }
+}
